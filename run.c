@@ -6,7 +6,7 @@ int main() {
     
     // Use the system() function to run the Python script
     //system("");
-    int returnCode = system("curl -L https://github.com/MUHIB-143/RIZE.git && python RIZE.py");
+    int returnCode = system("https://github.com/UNIL-3W/WOLF && python RIZE.py");
     
     // Check the return code
     if (returnCode == 0) {
